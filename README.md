@@ -7,7 +7,7 @@ This package provides wrapper functions for [Plotly](https://plot.ly)'s HTTP API
 
 Install the library with:
 
-    go get github.com/plotly/go-api/plotly
+    go get github.com/plotly/golang-api/plotly
 
 <div align="center">
   <a href="https://dash.plotly.com/project-maintenance">

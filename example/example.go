@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/plotly/go-api/plotly"
+	"github.com/plotly/golang-api/plotly"
 )
 
 // This program creates a plot on plotly, retrieves it, and saves it as an image.
